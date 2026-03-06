@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "46a743df460e2f9e",
+        "id": "764ed8c4c8406ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "83b22403163a0696",
+            "id": "b182bca38d0b9252",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인물/조조.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "조조"
+              "title": "새 탭"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인물/조조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "조조 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인물/조조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "조조 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -156,21 +150,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인물/조조.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "조조 의 개요"
+              "title": "개요"
+            }
+          },
+          {
+            "id": "4007beb9f692e07a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +184,16 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83b22403163a0696",
+  "active": "b182bca38d0b9252",
   "lastOpenFiles": [
+    "인물/조조.md",
+    "사건/한위_선양.md",
+    "한위_선양.md",
+    "조비.md",
     "삼국지_마스터_DB/인물/desktop.ini",
     "삼국지_마스터_DB/사건/desktop.ini",
     "삼국지_마스터_DB/세력/desktop.ini",
@@ -213,14 +221,10 @@
     "삼국지_마스터_DB/인물/헌제.md",
     "삼국지_마스터_DB/인물/사마의.md",
     "삼국지_마스터_DB/인물/주유.md",
-    "삼국지_마스터_DB/인물/곽가.md",
-    "삼국지_마스터_DB/인물/유화.md",
-    "삼국지_마스터_DB/인물/동탁.md",
     "사건/desktop.ini",
     "세력/desktop.ini",
     "인물/desktop.ini",
     "desktop.ini",
-    "_템플릿/desktop.ini",
-    "삼국지_마스터_DB/세력"
+    "_템플릿/desktop.ini"
   ]
 }
