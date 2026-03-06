@@ -11,10 +11,14 @@
             "id": "4f48ccf756541af7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_템플릿/지명_템플릿.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "지명_템플릿"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_템플릿/지명_템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "지명_템플릿 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_템플릿/지명_템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "지명_템플릿 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_템플릿/지명_템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "지명_템플릿 의 개요"
             }
           },
           {
@@ -188,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4007beb9f692e07a",
+  "active": "4f48ccf756541af7",
   "lastOpenFiles": [
+    "인물/조예.md",
+    "_템플릿/인물_템플릿.md",
+    "_템플릿/세력_템플릿.md",
+    "_템플릿/사료_템플릿.md",
+    "_템플릿/사건_템플릿.md",
     "인물/조조.md",
     "사건/한위_선양.md",
     "한위_선양.md",
@@ -216,11 +228,6 @@
     "삼국지_마스터_DB/인물/육손.md",
     "삼국지_마스터_DB/인물/원소.md",
     "삼국지_마스터_DB/인물/여몽.md",
-    "삼국지_마스터_DB/인물/조비.md",
-    "삼국지_마스터_DB/인물/조운.md",
-    "삼국지_마스터_DB/인물/헌제.md",
-    "삼국지_마스터_DB/인물/사마의.md",
-    "삼국지_마스터_DB/인물/주유.md",
     "사건/desktop.ini",
     "세력/desktop.ini",
     "인물/desktop.ini",
