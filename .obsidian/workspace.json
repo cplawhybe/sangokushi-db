@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "764ed8c4c8406ee0",
+        "id": "fd890f17914f033b",
         "type": "tabs",
         "children": [
           {
-            "id": "b182bca38d0b9252",
+            "id": "4f48ccf756541af7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b182bca38d0b9252",
+  "active": "4007beb9f692e07a",
   "lastOpenFiles": [
     "인물/조조.md",
     "사건/한위_선양.md",
