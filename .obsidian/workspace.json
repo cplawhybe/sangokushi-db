@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd890f17914f033b",
+        "id": "244566bdba142962",
         "type": "tabs",
         "children": [
           {
-            "id": "4f48ccf756541af7",
+            "id": "a5df696722b3235a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_템플릿/지명_템플릿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "지명_템플릿"
+              "title": "새 탭"
             }
           }
         ]
@@ -195,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f48ccf756541af7",
+  "active": "4007beb9f692e07a",
   "lastOpenFiles": [
+    "인물/조모.md",
     "인물/조예.md",
     "_템플릿/인물_템플릿.md",
     "_템플릿/세력_템플릿.md",
@@ -227,7 +224,6 @@
     "삼국지_마스터_DB/인물/장비.md",
     "삼국지_마스터_DB/인물/육손.md",
     "삼국지_마스터_DB/인물/원소.md",
-    "삼국지_마스터_DB/인물/여몽.md",
     "사건/desktop.ini",
     "세력/desktop.ini",
     "인물/desktop.ini",
