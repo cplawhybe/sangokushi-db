@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "5290741c852abc64",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a743df460e2f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b22403163a0696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인물/조조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "조조"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dffa69f5c266d5f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50e64c748e14ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8725054929b8f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6223b69058317138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e651f346b334d621",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "329bba83ffd54739",
+    "type": "split",
+    "children": [
+      {
+        "id": "575527f5b5e1103f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979db3a729bf465d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "인물/조조.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "조조 의 백링크"
+            }
+          },
+          {
+            "id": "be15d2df8fcd0263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "인물/조조.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "조조 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e0e746ba4d064545",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "9997edee4d7352ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "6131dcda85edf6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "인물/조조.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "조조 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "83b22403163a0696",
+  "lastOpenFiles": [
+    "삼국지_마스터_DB/인물/desktop.ini",
+    "삼국지_마스터_DB/사건/desktop.ini",
+    "삼국지_마스터_DB/세력/desktop.ini",
+    "삼국지_마스터_DB/_템플릿/desktop.ini",
+    "삼국지_마스터_DB/_inbox/desktop.ini",
+    "삼국지_마스터_DB/세력/촉한.md",
+    "삼국지_마스터_DB/세력/위.md",
+    "삼국지_마스터_DB/세력/군웅.md",
+    "삼국지_마스터_DB/세력/오.md",
+    "삼국지_마스터_DB/인물/관우.md",
+    "삼국지_마스터_DB/인물/공손찬.md",
+    "삼국지_마스터_DB/인물/제갈량.md",
+    "삼국지_마스터_DB/인물/가후.md",
+    "삼국지_마스터_DB/인물/손권.md",
+    "삼국지_마스터_DB/인물/여포.md",
+    "삼국지_마스터_DB/인물/손견.md",
+    "삼국지_마스터_DB/인물/유비.md",
+    "삼국지_마스터_DB/인물/원술.md",
+    "삼국지_마스터_DB/인물/장비.md",
+    "삼국지_마스터_DB/인물/육손.md",
+    "삼국지_마스터_DB/인물/원소.md",
+    "삼국지_마스터_DB/인물/여몽.md",
+    "삼국지_마스터_DB/인물/조비.md",
+    "삼국지_마스터_DB/인물/조운.md",
+    "삼국지_마스터_DB/인물/헌제.md",
+    "삼국지_마스터_DB/인물/사마의.md",
+    "삼국지_마스터_DB/인물/주유.md",
+    "삼국지_마스터_DB/인물/곽가.md",
+    "삼국지_마스터_DB/인물/유화.md",
+    "삼국지_마스터_DB/인물/동탁.md",
+    "사건/desktop.ini",
+    "세력/desktop.ini",
+    "인물/desktop.ini",
+    "desktop.ini",
+    "_템플릿/desktop.ini",
+    "삼국지_마스터_DB/세력"
+  ]
+}
